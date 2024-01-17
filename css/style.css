@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0 10px;
+    flex-wrap: wrap;
+}
+span{
+    background-color: blueviolet;
+    color: white;
+    padding: 40px;
+    font-size: 30px;
+}
